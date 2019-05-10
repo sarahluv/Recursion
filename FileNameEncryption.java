@@ -7,6 +7,11 @@ Purpose: To use recursive methods to show directory of files
 *******************************************************************************
 */
 
+/*------------------------------------------------------------------------------
+       FEEDBACK FROM INSTRUCTOR:
+       Contains compile errors.
+------------------------------------------------------------------------------*/
+
 import java.io.File;
 
 public class FileNameEncryption implements Encryptable
